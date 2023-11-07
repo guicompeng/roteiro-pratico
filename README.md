@@ -1,6 +1,6 @@
-# Laboratório de Engenharia de Software I
+# Grupo 9 - Laboratório de Engenharia de Software I
 
-## TP 1 - Desenvolvimento Mobile com Kotlin e Android
+## Desenvolvimento Mobile com Kotlin e Android
 
 ## Integrantes
 
