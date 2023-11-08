@@ -9,20 +9,46 @@
 - 20203020283 - GUILHERME DE ASSIS LIMA
 - 20213004828 - PEDRO HENRIQUE ROCHA DE CASTRO
 
-Clique em start
- <p align="center">
+
+## Instalação do projeto Calculadora
+Antes de tudo, a instalação do Android Studio é um requisito fundamental. Certifique-se de instalar a versão mais recente.
+
+Para configurar o ambiente, siga as etapas detalhadas no link a seguir, de acordo com o seu sistema operacional:
+https://developer.android.com/studio/install?hl=pt-br
+
+Uma vez que o Android Studio esteja instalado, siga as instruções abaixo:
+
+1. Realize um fork do repositório clicando no ícone Fork localizado no canto superior direito da página.
+
+2. No terminal, efetue o clone do projeto através do comando a seguir:
+
+```
+git clone https://github.com/<SEU USUÁRIO>/roteiro-pratico.git
+```
+
+3. Inicie o Android Studio. Na tela de boas-vindas, acesse a seção Projects na barra lateral esquerda e selecione a opção Open. Procure e escolha o diretório do repositório, depois selecione a pasta App. Clique em OK para abrir o projeto.
+
+4. Você pode optar por conectar um dispositivo físico ou usar um emulador para executar o aplicativo. Neste guia, abordaremos o uso de um emulador!
+ 
+5. Se desejar utilizar um emulador, verifique se já possui um instalado e selecione-o na guia Device Manager. Caso não tenha um emulador instalado, acesse Device Manager na tela e clique no botão Create Device. Na janela pop-up que aparecerá, selecione o dispositivo desejado e siga as instruções para concluir a instalação. Após a instalação, selecione o dispositivo recém-criado.
+        
+6. Após a seleção do dispositivo desejado, clique no botão de início (representado pela cor verde) para iniciar a aplicação:
+   <p align="center">
     <img width="25%" src="/prints/start.png">
  </p>
 
- Apos iniciar o projeto, deverá ser mostrado nossa calculadora:
+7. O resultado esperado é a criação de um aplicativo Android com a tela inicial exibida abaixo:
+   
   <p align="center">
     <img width="25%" src="/prints/semBotaoLimpar.png">
  </p>
 
- Essa calculadora não permite limpar o resultado. Vamos adicionar essa funcionalidade!
+8. Explore a calculadora! Tente fazer diferentes operações.
+
+Observe que essa calculadora não permite limpar o resultado. Vamos adicionar essa funcionalidade!
 
 
-Criando um botão para limpar:
+### Criando um botão para limpar o resultado
 No arquivo MainActivity.kt, Adicione o código abaixo em cima da função decimalPoint (linha 34)
 ```
     fun onClear(view: View){
