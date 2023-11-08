@@ -120,5 +120,5 @@ Como o App de calculadora é simples, toda a lógica das operações estão nest
 O arquivo activity_main.xml é um arquivo de layout XML em um projeto Android que define a aparência e a estrutura da interface do usuário (UI) da atividade principal de um aplicativo Android. No nosso projeto de calculadora, esse arquivo é usado para descrever como a tela principal do aplicativo deve ser exibida, incluindo os elementos de interface do usuário (botões de operações, números, etc).
 
 
-## Considerações e comentários
-[A FAZER!!!]
+## Comentários finais
+Neste roteiro, fornecemos uma breve introdução ao desenvolvimento mobile com Kotlin e Android. Exploramos os conceitos e demonstramos um exemplo prático, embora deva ser destacado que os exemplos apresentados são simples e que o campo do "Desenvolvimento Mobile com Kotlin e Android" é vasto e abrangente, indo muito além do que foi abordado aqui.
