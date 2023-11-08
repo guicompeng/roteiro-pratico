@@ -27,16 +27,7 @@
         android:layout_weight="1"
         android:orientation="horizontal">
 
-        <Button
-            android:id="@+id/btnclr"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_marginHorizontal="2dp"
-            android:layout_weight="1"
-            android:backgroundTint="#787878"
-            android:onClick="onClear"
-            android:text="C"
-            android:textSize="20sp" />
+
 
         <Button
             android:id="@+id/btnpercent"

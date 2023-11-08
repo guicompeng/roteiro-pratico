@@ -1943,7 +1943,6 @@ id btn8
 id btn9
 id btnadd
 id btnbksp
-id btnclr
 id btndecimal
 id btndivide
 id btndouble0

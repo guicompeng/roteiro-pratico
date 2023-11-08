@@ -1,7 +1,7 @@
-#Wed Nov 08 18:16:18 BRT 2023
-base.0=/Users/mac/Documents/teste/Calculator-in-android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-base.1=/Users/mac/Documents/teste/Calculator-in-android/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.2=/Users/mac/Documents/teste/Calculator-in-android/app/build/intermediates/dex/debug/mergeProjectDexDebug/15/classes.dex
+#Wed Nov 08 18:37:28 BRT 2023
+base.0=/Users/mac/Documents/roteiro-pratico/App/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/mac/Documents/roteiro-pratico/App/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Users/mac/Documents/roteiro-pratico/App/app/build/intermediates/dex/debug/mergeProjectDexDebug/15/classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=15/classes.dex

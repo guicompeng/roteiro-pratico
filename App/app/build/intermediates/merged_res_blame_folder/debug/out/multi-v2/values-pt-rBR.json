@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mac/Documents/teste/Calculator-in-android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "/Users/mac/Documents/roteiro-pratico/App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
                     "source": "/Users/mac/.gradle/caches/transforms-3/35b7ea6c5b709b7b771eaa863fb757f9/transformed/material-1.4.0/res/values-pt-rBR/values-pt-rBR.xml",

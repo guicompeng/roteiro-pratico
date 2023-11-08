@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:2:1-23:12
+ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.core:core-ktx:1.7.0] /Users/mac/.gradle/caches/transforms-3/e98a8c2821c0a22d77c91754217b4435/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.4.0] /Users/mac/.gradle/caches/transforms-3/35b7ea6c5b709b7b771eaa863fb757f9/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/mac/.gradle/caches/transforms-3/840d7f31b637b236e71f3b62948330c3/transformed/constraintlayout-2.1.2/AndroidManifest.xml:2:1-11:12
@@ -44,25 +44,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mac/.gradle/caches
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mac/.gradle/caches/transforms-3/605b42a829b8605fc338a6799f0203fd/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/mac/.gradle/caches/transforms-3/168ab43f1e12d5a545ee0fa49f678505/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mac/.gradle/caches/transforms-3/08fb49df5c5551726351285e5c0d1bd2/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:3:5-39
-		INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:2:1-23:12
-		INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:2:1-23:12
-		INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:5:5-21:19
+ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:5:5-21:19
 MERGED from [com.google.android.material:material:1.4.0] /Users/mac/.gradle/caches/transforms-3/35b7ea6c5b709b7b771eaa863fb757f9/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] /Users/mac/.gradle/caches/transforms-3/35b7ea6c5b709b7b771eaa863fb757f9/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/mac/.gradle/caches/transforms-3/840d7f31b637b236e71f3b62948330c3/transformed/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
@@ -80,37 +80,37 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/mac/.gradle/caches/t
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] /Users/mac/.gradle/caches/transforms-3/2a47483d8eeecece1235cdc64fe3facf/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:11:9-50
+		ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:11:9-50
 activity#com.example.mycalculator.MainActivity
-ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:12:9-20:20
+ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:12:9-20:20
 	android:exported
-		ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:14:13-36
+		ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:13:13-41
+		ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:13:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml:18:27-74
 uses-sdk
-INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml
 MERGED from [androidx.core:core-ktx:1.7.0] /Users/mac/.gradle/caches/transforms-3/e98a8c2821c0a22d77c91754217b4435/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.7.0] /Users/mac/.gradle/caches/transforms-3/e98a8c2821c0a22d77c91754217b4435/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.material:material:1.4.0] /Users/mac/.gradle/caches/transforms-3/35b7ea6c5b709b7b771eaa863fb757f9/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
@@ -191,16 +191,16 @@ MERGED from [androidx.print:print:1.0.0] /Users/mac/.gradle/caches/transforms-3/
 MERGED from [androidx.print:print:1.0.0] /Users/mac/.gradle/caches/transforms-3/168ab43f1e12d5a545ee0fa49f678505/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mac/.gradle/caches/transforms-3/08fb49df5c5551726351285e5c0d1bd2/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mac/.gradle/caches/transforms-3/08fb49df5c5551726351285e5c0d1bd2/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/mac/Documents/teste/Calculator-in-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/roteiro-pratico/App/app/src/main/AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/mac/.gradle/caches/transforms-3/fafa9e3623ac41b3ebf35f052764c43a/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/mac/.gradle/caches/transforms-3/f1f521abc91f67fcfa6a288ca981d2f1/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20

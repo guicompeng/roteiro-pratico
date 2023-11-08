@@ -31,11 +31,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    fun onClear(view: View){                                          // Limpa a tela
-        tvInput.text= ""
-        num=false
-        dot=false
-    }
 
     fun decimalPoint(view: View){                                   // Verifica se possui decimal
         if (num && !dot){
