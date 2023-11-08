@@ -10,6 +10,9 @@
 - 20213004828 - PEDRO HENRIQUE ROCHA DE CASTRO
 
 
+## Introdução ao Kotlin
+[A FAZER!!!]
+
 ## Instalação do projeto Calculadora
 Antes de tudo, a instalação do Android Studio é um requisito fundamental. Certifique-se de instalar a versão mais recente.
 
@@ -48,7 +51,7 @@ git clone https://github.com/<SEU USUÁRIO>/roteiro-pratico.git
 Observe que essa calculadora não permite limpar o resultado. Vamos adicionar essa funcionalidade!
 
 
-### Criando um botão para limpar o resultado
+## Modificando o App para incluir um botão de limpar o resultado
 No arquivo MainActivity.kt, Adicione o código abaixo em cima da função decimalPoint (linha 34)
 ```
     fun onClear(view: View){
@@ -83,3 +86,11 @@ Resultado:
     <img width="25%" src="/prints/exemplo1.png">
      <img width="26%" src="/prints/exemplo2.png">
  </p>
+
+
+## Estrutura do projeto calculadora
+[A FAZER!!!]
+
+
+## Considerações e comentários
+[A FAZER!!!]
