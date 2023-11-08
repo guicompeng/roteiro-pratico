@@ -89,7 +89,12 @@ Resultado:
 
 
 ## Estrutura do projeto calculadora
-[A FAZER!!!]
+#### App/app/src/main/java/com/example/mycalculator/MainActivity.kt
+O arquivo MainActivity.kt é um dos componentes-chave de um aplicativo Android. Ele representa a classe principal que atua como ponto de entrada para o aplicativo.
+Como o App de calculadora é simples, toda a lógica das operações estão neste arquivo!
+
+#### App/app/src/main/res/layout/activity_main.xml
+O arquivo activity_main.xml é um arquivo de layout XML em um projeto Android que define a aparência e a estrutura da interface do usuário (UI) da atividade principal de um aplicativo Android. No nosso projeto de calculadora, esse arquivo é usado para descrever como a tela principal do aplicativo deve ser exibida, incluindo os elementos de interface do usuário (botões de operações, números, etc).
 
 
 ## Considerações e comentários
