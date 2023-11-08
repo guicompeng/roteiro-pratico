@@ -11,7 +11,30 @@
 
 
 ## Introdução ao Kotlin
-[A FAZER!!!]
+
+No cenário em constante evolução do desenvolvimento de aplicativos móveis, a escolha da tecnologia certa desempenha um papel fundamental no sucesso de qualquer projeto. O Kotlin, uma linguagem de programação moderna e versátil, emergiu como uma escolha cada vez mais popular para desenvolvedores de aplicativos. Sua elegância, simplicidade e poder o tornam uma escolha excepcional para a criação de aplicativos de alta qualidade.
+
+Este projeto tem como objetivo explorar o uso do Kotlin como linguagem de programação principal no desenvolvimento de um aplicativo móvel. Vamos examinar as inúmeras vantagens que o Kotlin oferece em relação a outras linguagens, bem como como essas vantagens impactam positivamente o processo de desenvolvimento e a qualidade do aplicativo final.
+
+Vantagens do Kotlin no Desenvolvimento de Aplicativos
+
+O Kotlin oferece uma série de vantagens significativas que o tornam uma escolha atraente para desenvolvedores de aplicativos:
+
+Sintaxe Expressiva e Limpa: O Kotlin possui uma sintaxe intuitiva e legível, o que torna o código mais fácil de escrever e entender. Isso leva a um desenvolvimento mais eficiente e menos propenso a erros.
+
+100% Interoperável com Java: O Kotlin é totalmente interoperável com Java, o que significa que os desenvolvedores podem aproveitar bibliotecas Java existentes e migrar gradualmente para o Kotlin, se desejarem. Isso simplifica a transição para desenvolvedores e projetos existentes.
+
+Segurança e Redução de Erros: O Kotlin introduz recursos que reduzem a ocorrência de erros comuns, como nulos. O sistema de tipos robusto ajuda a evitar erros em tempo de compilação, resultando em um código mais seguro.
+
+Recursos de Extensão: O Kotlin permite a criação de extensões de funções que simplificam a adição de novos recursos a bibliotecas e classes existentes, sem a necessidade de herança.
+
+Concisão e Produtividade: A concisão da linguagem reduz a quantidade de código necessário para realizar tarefas comuns. Isso resulta em maior produtividade e menos código para manter.
+
+Suporte à Programação Funcional: O Kotlin suporta programação funcional, o que torna mais fácil lidar com operações assíncronas e manipulação de coleções.
+
+Comunidade Ativa e Suporte da Indústria: O Kotlin é apoiado pela JetBrains e possui uma comunidade ativa de desenvolvedores. É amplamente adotado pela indústria, incluindo grandes empresas de tecnologia, o que garante suporte contínuo e recursos em constante evolução.
+
+Neste projeto, exploraremos a aplicação prática dessas vantagens do Kotlin no desenvolvimento de um aplicativo móvel. Examinaremos como o Kotlin simplifica o desenvolvimento, aumenta a segurança, melhora a produtividade e proporciona uma experiência de programação mais agradável para os desenvolvedores.
 
 ## Instalação do projeto Calculadora
 Antes de tudo, a instalação do Android Studio é um requisito fundamental. Certifique-se de instalar a versão mais recente.
