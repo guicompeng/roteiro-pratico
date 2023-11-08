@@ -51,3 +51,9 @@ Resultado:
   <p align="center">
     <img width="25%" src="/prints/comBotaoLimpar.png">
  </p>
+
+ Testando multiplicação:
+  <p align="center">
+    <img width="25%" src="/prints/exemplo1.png">
+     <img width="26%" src="/prints/exemplo2.png">
+ </p>
